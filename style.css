@@ -223,6 +223,7 @@ input[type="text"] {
     margin-right: auto;
     margin-left:auto;
     justify-content: space-evenly;
+    border: solid 3px green;
 }
 
 #player-game {
